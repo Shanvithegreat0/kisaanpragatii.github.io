@@ -72,6 +72,9 @@ nav ul li a:hover:after {
   border-color: yellow;
   color: yellow;
 }
+.content{
+padding: 20px;
+}
 #content1 h1{
     text-align: center;
     font-family: "Poppins";
