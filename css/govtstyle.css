@@ -16,7 +16,7 @@ a {
   background-size: cover;
 }
 nav {
-  background-color: green;
+  background-color:#097969;
   display: flex;
   align-items: center;
   justify-content: space-between;
