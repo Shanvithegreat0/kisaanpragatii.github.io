@@ -112,7 +112,7 @@ nav ul li a:hover:after {
   font-size: 40px;
   padding: 20px;
   font-family: "Poppins";
-  color: green;
+  color: #097969;;
 }
 #sell .sell_1{
   width: 23%;
@@ -156,7 +156,7 @@ nav ul li a:hover:after {
   font-weight: 500;
   transition: all 0.4s ease-in-out;
   background-size: 152% 100%;
-  background: green;
+  background: #097969;;
   margin-top: 5px;
 }
 #sell .view{
@@ -184,7 +184,7 @@ nav ul li a:hover:after {
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
-  background-color: green;
+  background-color: #097969;;
   padding: 50px;
   margin-top: 25px;
 }
@@ -296,7 +296,7 @@ nav ul li a:hover:after {
 }
 .Footer a:hover{
   color: white;
-  background-color: green;
+  background-color: #097969;;
 }
 .copyy{
   font-size: 15px;
