@@ -290,7 +290,7 @@ nav ul li a:hover:after {
   color: green;
 }
 .Footer a{
-  color: black;
+  color:white;
   padding: 5px;
 }
 .Footer a:hover{
@@ -300,4 +300,5 @@ nav ul li a:hover:after {
 .copyy{
   font-size: 15px;
   text-align: center;
+  color: white;
 }
