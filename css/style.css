@@ -283,7 +283,7 @@ nav ul li a:hover:after {
 .Footer li {
   Margin-Right: 30px;
   Margin-Bottom: 20px;
-  color: black;
+  color: white;
   font-weight: 400;
 }
 .Footer li::after{
