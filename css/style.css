@@ -290,6 +290,9 @@ nav ul li a:hover:after {
   color:white;
   padding: 5px;
 }
+.Footer a:hover{
+  color:yellow;
+}
 .copyy{
   font-size: 15px;
   text-align: center;
