@@ -1,0 +1,57 @@
+body{
+  background-image:url("https://farmkartgroup.com/wp-content/uploads/2020/11/blog-app.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+label{
+  font-size:20px;
+  
+}
+.request{
+  text-align:center;
+  border-style:0.5px solid;
+  padding:20px;
+  margin-right:200px;
+  margin-left:200px;
+  background:white;
+  opacity:80%;
+  margin-top:20px;
+}
+.sumbit{
+  border-style: 0.2px solid;
+  padding:10px;
+  width:100px;
+  background:#097969;
+  margin-top:5px;
+  color:white;
+}
+.sumbit:hover{
+  width:500px;
+  background:black;
+}
+input{
+  font-size:15px;
+  width:200px;
+  padding:5px;
+}
+select{
+  width:100px;
+  font-size:15px;
+}
+.nte{
+  font-size:30px;
+}
+.note{
+  border-style:2px solid;
+  background:black;
+  padding:5px;
+  color:white;
+  border-radius:20px;
+  margin-top:4px;
+  padding-bottom:10px;
+}
+.notes{
+  width:500px;
+  height:150px;
+  font-size:20px;
+}
