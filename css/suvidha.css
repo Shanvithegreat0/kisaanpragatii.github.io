@@ -107,6 +107,7 @@ body {
 }
 .bg {
   background-image: url(assets/farmer.jpg);
+  background-image: url("https://img.freepik.com/premium-photo/indian-farmer-cotton-field_54391-2206.jpg?w=2000");
   height: 100%; 
    
   background-position: center;
