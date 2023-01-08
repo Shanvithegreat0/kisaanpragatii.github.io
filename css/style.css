@@ -302,7 +302,7 @@ nav ul li a:hover:after {
       width:700px;
   padding:20px;
   font-size:20px;
-   margin-left:100px;
+   margin-left:300px;
    margin-top:10px;
   border-style: 0.2px solid;
   border-color:black;
@@ -313,5 +313,5 @@ nav ul li a:hover:after {
 }
 .request:hover{
   background:black;
-  margin-right:-100px;
+  
 }
